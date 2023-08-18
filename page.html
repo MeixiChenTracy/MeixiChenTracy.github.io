@@ -10,115 +10,106 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
 
         #header {
-            width: 100%;
-            height: 200px;
-            background: url('path-to-your-header-photo.jpg') no-repeat center;
+            text-align: center;
+            padding: 40px 0;
+            /* background-color: #eee; */
+            background: url('profile_photo.jpg') no-repeat center;
             background-size: cover;
         }
 
         #profile-pic {
-            width: 100px;
-            height: 100px;
+            width: 150px;
+            height: 150px;
             border-radius: 50%;
-            margin: -50px auto 20px auto;
             display: block;
-            background: url('path-to-your-profile-pic.jpg') no-repeat center;
+            margin: 20px auto;
+            background: url('profile_photo.jpg') no-repeat center;
+            background-size: cover;
+        }
+        #header-photo {
+            width: 100%;
+            height: 500px; /* You can adjust this value according to your preference */
+            background: url('profile_photo.jpg') no-repeat center;
             background-size: cover;
         }
 
-        #content {
-            text-align: center;
-            padding: 20px;
+
+        h1, h2 {
+            margin-top: 0;
         }
 
-        #education, #research-interests, #research-experiences, #internships {
-            margin-top: 30px;
+        #contact-info {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .section {
+            border-top: 1px solid #eee;
+            padding: 20px 0;
         }
 
         ul {
-            text-align: left;
-            margin-left: 30px;
+            margin: 0;
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            color: #0077cc;
         }
 
     </style>
 </head>
 
 <body>
-    <div id="header"></div>
-    <div id="content">
-        <div id="profile-pic"></div>
-        <h1>Meixi Chen</h1>
-        <p>Email: mc2125@cam.ac.uk | Tel: +86 19168911813 | <a href="https://xxxxxxxx">Personal Webpage</a></p>
+    <div class="container">
+        <div id="header">
+            <!-- <div id="header-photo"></div> -->
+            <div id="profile-pic"></div>
+            <h1>Meixi Chen</h1>
+            <!-- <div id="contact-info">
+                <p>Email: <a href="mailto:mc2125@cam.ac.uk">mc2125@cam.ac.uk</a> | Tel: +86 19168911813 | <a href="https://xxxxxxxx">Personal Webpage</a></p>
+            </div> -->
+        </div>
 
-        <div id="education">
+        <div class="section" id="education">
             <h2>Education and Qualifications</h2>
-            <p><strong>University of Cambridge</strong> - BA & MEng Engineering | Oct. 2018 – Jul. 2023</p>
-            <ul>
-                <li>2022-2023 (IIB): Master’s degree with Merit (Class I in Project: Automatic Children Story Video Generation)</li>
-                <li>2021-2022: Intermission year in industry</li>
-                <li>2020-2021 (IIA): Class II.1</li>
-                <li>2019-2020 (IB): Not classed due to COVID</li>
-                <li>2018-2019 (IA): Class II.1</li>
-                <li>Relevant Modules: Deep learning and structured data, Computer vision, Practical optimisation, Probabilistic machine learning, Signals and systems, Inference</li>
-            </ul>
-
-            <p><strong>Harrow International School, Hong Kong</strong> | Sept. 2016 – Jun. 2018</p>
-            <ul>
-                <li>A-Levels (Edexcel): Mathematics (A*), Further Mathematics (A*), Physics (A*), Chemistry (A*)</li>
-            </ul>
+            ...
         </div>
 
-        <div id="research-interests">
+        <div class="section" id="research-interests">
             <h2>Research Interests</h2>
-            <ul>
-                <li>Image generation (text-to-image generation, image editing, concept personalisation)</li>
-                <li>Text generation (story generation and dialogue systems)</li>
-                <li>Controllability of generation models</li>
-                <li>Large language models and multimodal models</li>
-            </ul>
+            ...
         </div>
 
-        <div id="research-experiences">
+        <div class="section" id="research-experiences">
             <h2>Research Experiences</h2>
-            <p><strong>Automatic Children Story Video Generation</strong> | University of Cambridge (Oct. 2022 - present)</p>
             <ul>
-                <li>Supervised by Dr. Samuel Albanie</li>
-                <li>Focus: character consistency, personalisation of text-to-image diffusion models, weight interpolation improvements on DreamBooth.</li>
+                ...
                 <li>Final report: <a href="https://github.com/xxxxxx/xxxxxxxx">GitHub</a></li>
             </ul>
-
-            <p><strong>Improving Few-Shot Performance of Language Models via Nearest Neighbor Learning</strong> | Intern project, Tencent (Apr. 2022 - Aug. 2022)</p>
-            <ul>
-                <li>Publication: <a href="https://arxiv.org/abs/2212.02216">arxiv:2212.02216</a></li>
-                <li>Improvements on few-shot text classification using embedding output from large language models.</li>
-            </ul>
-
-            <p><strong>Natural language tags clustering</strong> | Intern project, Tencent (Jan. 2022 - Apr. 2022)</p>
-            <ul>
-                <li>Focused on clustering game-related text tags using word2vec embeddings.</li>
-            </ul>
-
-            <p><strong>Intent classification for dialogue system</strong> | Intern Project, CMB Network Technology (Jun. 2021 - Sept. 2021)</p>
-            <ul>
-                <li>Intent classification in online banking context using finBERT and modified triplet network.</li>
-                <li>Best model achieved accuracy above 98%.</li>
-            </ul>
+            ...
         </div>
 
-        <div id="internships">
+        <div class="section" id="internships">
             <h2>Other Internships</h2>
-            <p><strong>DST Rental - Data Analysis Intern</strong> | Oct. 2021 - Dec. 2021</p>
-            <ul>
-                <li>Modeling: Logic regression, neural network, regression tree for order renewals and early terminations.</li>
-            </ul>
-
-            <p><strong>Dexta Robotics - Unity Intern</strong> | Jun. 2019 - Sept. 2019</p>
-            <ul>
-                <li>Development of 3D model plugins and graphic calculations in Unity. Attended SIGGRAPH 2019 Summit in Los Angeles for Dexta Robotics.</li>
-            </ul>
+            ...
         </div>
     </div>
 </body>
