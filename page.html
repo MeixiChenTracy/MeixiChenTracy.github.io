@@ -72,6 +72,12 @@
             border-top: 1px solid #eee;
             padding: 20px 0;
         }
+        .list_subsection {
+            padding: 0px 0;
+            font-size: 1.05rem;
+            font-weight: bold;
+            margin-top: 20px;
+        }
 
         ul {
             margin: 0;
@@ -97,6 +103,13 @@
             color: #0077cc;  /* color when you hover over an icon */
         }
         
+        .location-time {
+            font-weight: bold;
+            color: #777;
+            font-size: 0.9rem;
+            margin-bottom: 12px;
+            margin-top: 6px;
+        }
 
     </style>
 
@@ -136,35 +149,122 @@
                 <a href="https://www.youtube.com/@Meixi_Chen" target="_blank" title="YouTube">
                     <i class="fab fa-youtube"></i>
                 </a>
-                <a href="https://twitter.com/MeixiChenTracy" target="_blank" title="Twitter">
+                <!-- <a href="https://twitter.com/MeixiChenTracy" target="_blank" title="Twitter">
                     <i class="fab fa-twitter"></i>
-                </a>
+                </a> -->
             </div>
             
         </div>
 
         <div class="section" id="education">
-            <h2>Education and Qualifications</h2>
-            ...
+            <h2>Education</h2>
+            
+            <ul>
+                <li>M.Eng. & B.A. Engineering, University of Cambridge (Oct. 2018 – Jul. 2023)</li>
+            <!-- <br><br> -->
+                <li>A-Level, Harrow International School Hong Kong  (Sept. 2016 – Jun. 2018)</li>
+            </ul>
+
+
         </div>
 
         <div class="section" id="research-interests">
             <h2>Research Interests</h2>
-            ...
+            <ul>
+                <li>Image generation and edition</li>
+                <li>Text generation</li>
+                <li>Adding controllability into generation process</li>
+            </ul>
         </div>
 
         <div class="section" id="research-experiences">
             <h2>Research Experiences</h2>
-            <ul>
-                ...
-                <li>Final report: <a href="https://github.com/xxxxxx/xxxxxxxx">GitHub</a></li>
-            </ul>
-            ...
+            More details can be found in my <a href="CV-202308-master-edit-0822.pdf">CV</a>
+
+            <br><br>
+                <ul>
+                    <li>
+                        <div class="list_subsection">Automatic Children Story Video Generation</div>
+                        <div class="location-time">
+                            <!-- Supervised by Dr.Samuel Albanie
+                            <br>  -->
+                            MEng project, University of Cambridge (Oct. 2022 - Jul. 2023) 
+                        </div>
+                        <ul>
+                            <li>Focused on text-to-image diffusion models for image generation.</li>
+                            <li>Enhanced DreamBooth method through weight interpolation at inference stage.</li>
+                            <li>Created automatic video generation pipeline from story generation to image generation to final video.</li>
+                            <li>Final report see <a href="https://github.com/MeixiChenTracy/MEng_project">here</a>. </li>
+                        </ul>
+                    </li>
+
+
+                    <li>
+                        <div class="list_subsection">Improving Few-Shot Performance of Language Models via Nearest Neighbor Learning</div>
+                        <div class="location-time">Intern project, Tencent (Apr. 2022 - Aug. 2022)</div>
+                        
+                        <ul>
+                            <li>Using top representations of pre-trained language models, enhanced in-context learning by retrieving similar support samples from datastore (additional kNN classifier).</li>
+                            <li>Additional small modules to handle noise: adaptive neighbour selection and feature regularisation.</li>
+                            <li>Published paper on <a href="https://arxiv.org/abs/2212.02216">arXiv:2212.02216</a></li>
+                        </ul>
+                    </li>
+
+
+
+                    <li>
+                        <div class="list_subsection">Natural language tags clustering </div>
+                        <div class="location-time">Intern project, Tencent (Jan. 2022 - Apr. 2022)</div>
+                        <ul>
+                            <li>Utilized Word2vec for game-related domain text resources.</li>
+                            <li>Clustered tags using k-means and hierarchical clustering.</li>
+                            <li>Output clusters used in knowledge graph schema construction.</li>
+                        </ul>
+                    </li>
+
+
+
+                    <li>
+                        <div class="list_subsection">Intent classification for dialogue system</div>
+                        <div class="location-time">Intern project, CMB Network Technology (Jun. 2021 - Sept. 2021)</div>
+                        <ul>
+                            <li>Classified user intentions in online banking using finBERT.</li>
+                            <li>Refined model with modified triplet network with hard triplet generation.</li>
+                            <li>Best model achieved an accuracy above 98% with precision and recall above 96%.</li>
+                        </ul>
+                    </li>
+                </ul>
+
         </div>
 
         <div class="section" id="internships">
             <h2>Other Internships</h2>
-            ...
+            <ul>
+
+
+
+                <li>
+                    <div class="list_subsection">Data Analysis Intern</div>
+                    <div class="location-time">DST Rental (Oct. 2021 - Dec. 2021)</div>
+                    <ul>
+                        <li>Predicted order renewals and early-terminations.</li>
+                        <li>Used ChiMerge, equal-frequency binning, WOE encoding, logic regression, neural network, and regression tree.</li>
+                        <li>Achieved 95% total accuracy.</li>
+                    </ul>
+                </li>
+
+
+                <li>
+                    <div class="list_subsection">Unity Intern</div>
+                    <div class="location-time">Dexta Robotics (Jun. 2019 - Sept. 2019)</div>
+                    <ul>
+                        <li>Generated 3D bounding boxes in Unity from 3D models.</li>
+                        <li>Represented the business at SIGGRAPH 2019 and visited Silicon Valley companies.</li>
+                    </ul>
+                </li>
+
+
+            </ul>
         </div>
     </div>
 </body>
