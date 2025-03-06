@@ -1,5 +1,5 @@
 # 📝 Publications 
-## 🏆 3D Vision and Generative Models
+## 3D Vision and Generative Models
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/kiss_teaser.png' alt="kiss3dgen" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,6 +44,8 @@ Yixun Liang*, Xin Yang*, **Jiantao Lin**, Haodong Li, Xiaogang Xu, Ying-Cong Che
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/flexgen_teaser.png' alt="flexgen" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+## 2D Vision and Generative Models
+
 [FlexGen: Flexible Multi-View Generation from Text and Image Inputs](https://arxiv.org/abs/2410.10745) \\  
 Xinli Xu*, Wenhang Ge*, **Jiantao Lin\***, Jiawei Feng, Lie Xu, Hanfeng Zhao, Shunsi Zhang, Ying-Cong Chen
 
@@ -55,7 +57,7 @@ Xinli Xu*, Wenhang Ge*, **Jiantao Lin\***, Jiawei Feng, Lie Xu, Hanfeng Zhao, Sh
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/sg_teaser.jpg' alt="sg-adapter" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance](https://arxiv.org/abs/2405.15321) \\  
+[SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance](https://arxiv.org/abs/2405.15321) \\
 Guibao Shen*, Luozhou Wang*, **Jiantao Lin**, Wenhang Ge, Chaozhe Zhang, Xin Tao, Yuan Zhang, Pengfei Wan, Zhongyuan Wang, Guangyong Chen, Yijun Li, Ying-Cong Chen.
   - Introduces scene graph constraints into text-to-image generation.
   - Improves structure and semantic consistency in generated images.
