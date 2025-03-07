@@ -6,7 +6,7 @@
 
 #### **Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation**  
 [**📄 Paper (arXiv)**](https://arxiv.org/pdf/2503.01370)   \\
-**Jiantao Lin\***, Xin Yang*, Meixi Chen*, Yingjie Xu, Dongyu Yan, Leyi Wu, Xinli Xu, Lie Xu, Shunsi Zhang, Ying-Cong Chen
+**Jiantao Lin\***, Xin Yang\*, Meixi Chen\*, Yingjie Xu, Dongyu Yan, Leyi Wu, Xinli Xu, Lie Xu, Shunsi Zhang, Ying-Cong Chen
 
 [**Project Page**](https://ltt-o.github.io/Kiss3dgen.github.io) | [**Code**](https://github.com/EnVision-Research/Kiss3DGen) | [**Demo**](https://envision-research.hkust-gz.edu.cn/kiss3dgen/)
   - This work explores utilizing 2D diffusion models for 3D asset generation.
@@ -34,7 +34,7 @@ Wenhang Ge*, **Jiantao Lin\***, Jiawei Feng, Guibao Shen, Tao Hu, Xinli Xu, Ying
 
 #### **LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching**  
 [**📄 Paper (arXiv)**](https://arxiv.org/abs/2311.11284)   \\
-Yixun Liang*, Xin Yang*, **Jiantao Lin**, Haodong Li, Xiaogang Xu, Ying-Cong Chen
+Yixun Liang\*, Xin Yang\*, **Jiantao Lin**, Haodong Li, Xiaogang Xu, Ying-Cong Chen
 
 [**Code**](https://github.com/EnVision-Research/LucidDreamer)  
   - Proposes a novel interval score matching approach for text-to-3D generation.
@@ -52,7 +52,7 @@ Yixun Liang*, Xin Yang*, **Jiantao Lin**, Haodong Li, Xiaogang Xu, Ying-Cong Che
 
 #### **FlexGen: Flexible Multi-View Generation from Text and Image Inputs**  
 [**📄 Paper (arXiv)**](https://arxiv.org/abs/2410.10745)   \\
-Xinli Xu*, Wenhang Ge*, **Jiantao Lin\***, Jiawei Feng, Lie Xu, Hanfeng Zhao, Shunsi Zhang, Ying-Cong Chen
+Xinli Xu\*, Wenhang Ge\*, **Jiantao Lin\***, Jiawei Feng, Lie Xu, Hanfeng Zhao, Shunsi Zhang, Ying-Cong Chen
 
 [**Project Page**](https://xxu068.github.io/flexgen.github.io/)  
   - A multi-view generation model that fuses text and image inputs.
@@ -65,7 +65,7 @@ Xinli Xu*, Wenhang Ge*, **Jiantao Lin\***, Jiawei Feng, Lie Xu, Hanfeng Zhao, Sh
 
 #### **SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance**  
 [**📄 Paper (arXiv)**](https://arxiv.org/abs/2405.15321)   \\
-Guibao Shen*, Luozhou Wang*, **Jiantao Lin**, Wenhang Ge, Chaozhe Zhang, Xin Tao, Yuan Zhang, Pengfei Wan, Zhongyuan Wang, Guangyong Chen, Yijun Li, Ying-Cong Chen.
+Guibao Shen\*, Luozhou Wang\*, **Jiantao Lin**, Wenhang Ge, Chaozhe Zhang, Xin Tao, Yuan Zhang, Pengfei Wan, Zhongyuan Wang, Guangyong Chen, Yijun Li, Ying-Cong Chen.
   - Introduces scene graph constraints into text-to-image generation.
   - Improves structure and semantic consistency in generated images.
 </div>
