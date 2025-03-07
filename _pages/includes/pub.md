@@ -1,5 +1,5 @@
 # 📝 Publications 
-## 3D Vision and Generative Models
+## 3D Generation/Reconstruction
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/kiss_teaser.png' alt="kiss3dgen" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,7 +42,7 @@ Yixun Liang\*, Xin Yang\*, **Jiantao Lin**, Haodong Li, Xiaogang Xu, Ying-Cong C
 </div>
 </div>
 
-## 2D Vision and Generative Models
+## 2D Generation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/flexgen_teaser.png' alt="flexgen" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -68,6 +68,7 @@ Guibao Shen\*, Luozhou Wang\*, **Jiantao Lin**, Wenhang Ge, Chaozhe Zhang, Xin T
 </div>
 </div>
 
+## 2D Recognition
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recogn. Lett 2024</div><img src='images/webly_teaser.jpg' alt="webly-fg" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
