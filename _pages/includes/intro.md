@@ -1,4 +1,4 @@
-I am a **MPhil student at HKUST (Guangzhou)** <img src='./images/hkust_logo.png' style='width: 1em;'>, supervised by Prof. Ying-Cong Chen. 
+I am a **MPhil student at HKUST (Guangzhou)** <img src='./images/hkust_logo.png' style='width: 0.7em;'>, supervised by Prof. Ying-Cong Chen. 
 
 I am currently conducting research in **3D vision, generative models, and neural rendering**. My recent work focuses on **3D/4D asset generation, photometric stereo, and multi-view generation**. If you are interested in **academic collaboration**, please feel free to contact me via email at [jlin695@connect.hkust-gz.edu.cn](mailto:jlin695@connect.hkust-gz.edu.cn). I am also open to research internship opportunities in related fields!
 
