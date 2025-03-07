@@ -65,7 +65,7 @@ Xinli Xu*, Wenhang Ge*, **Jiantao Lin\***, Jiawei Feng, Lie Xu, Hanfeng Zhao, Sh
 
 #### **SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance**  
 [**📄 Paper (arXiv)**](https://arxiv.org/abs/2405.15321)   \\
-Guibao Shen**, Luozhou Wang**, **Jiantao Lin**, Wenhang Ge, Chaozhe Zhang, Xin Tao, Yuan Zhang, Pengfei Wan, Zhongyuan Wang, Guangyong Chen, Yijun Li, Ying-Cong Chen.
+Guibao Shen*, Luozhou Wang*, **Jiantao Lin**, Wenhang Ge, Chaozhe Zhang, Xin Tao, Yuan Zhang, Pengfei Wan, Zhongyuan Wang, Guangyong Chen, Yijun Li, Ying-Cong Chen.
   - Introduces scene graph constraints into text-to-image generation.
   - Improves structure and semantic consistency in generated images.
 </div>
