@@ -42,13 +42,10 @@ Yixun Liang\*, Xin Yang\*, **Jiantao Lin**, Haodong Li, Xiaogang Xu, Ying-Cong C
 </div>
 </div>
 
+## 2D Vision and Generative Models
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/flexgen_teaser.png' alt="flexgen" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-
-## 2D Vision and Generative Models
-
 
 #### **FlexGen: Flexible Multi-View Generation from Text and Image Inputs**  
 [**📄 Paper (arXiv)**](https://arxiv.org/abs/2410.10745)   \\
