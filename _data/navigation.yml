@@ -1,19 +1,18 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
-
+    url: "/JiantaoLin.github.io/#-educations"
   - title: "News"
-    url: "/#-news"
+    url: "/JiantaoLin.github.io/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/JiantaoLin.github.io/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/JiantaoLin.github.io/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/JiantaoLin.github.io/#-educations"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
