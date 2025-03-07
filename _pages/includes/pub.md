@@ -6,7 +6,7 @@
 
 #### **Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation**  
 [**📄 Paper (arXiv)**](https://arxiv.org/pdf/2503.01370)   \\
-**Jiantao Lin\***, Xin Yang*, Meixi Chen*, Yingjie Xu, Dongyu Yan, Leyi Wu, Xinli Xu, Lie Xu, Shunsi Zhang, Ying-Cong Chen
+**Jiantao Lin\***, Xin Yang**, Meixi Chen*, Yingjie Xu, Dongyu Yan, Leyi Wu, Xinli Xu, Lie Xu, Shunsi Zhang, Ying-Cong Chen
 
 [**Project Page**](https://ltt-o.github.io/Kiss3dgen.github.io) | [**Code**](https://github.com/EnVision-Research/Kiss3DGen) | [**Demo**](https://envision-research.hkust-gz.edu.cn/kiss3dgen/)
   - This work explores utilizing 2D diffusion models for 3D asset generation.
