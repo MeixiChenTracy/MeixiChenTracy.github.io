@@ -33,7 +33,7 @@ Wenhang Ge*, **Jiantao Lin\***, Jiawei Feng, Guibao Shen, Tao Hu, Xinli Xu, Ying
 <div class='paper-box-text' markdown="1">
 
 #### **LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching**  
-[**📄 Paper (arXiv)**](https://arxiv.org/abs/2311.11284) <strong><span class='show_paper_citations' data='ri-snP0AAAAJ:u5HHmVD_uO8C'></span><strong>   \\
+[**📄 Paper (arXiv)**](https://arxiv.org/abs/2311.11284) <span class='show_paper_citations' data='ri-snP0AAAAJ:u5HHmVD_uO8C'></span>   \\
 Yixun Liang\*, Xin Yang\*, **Jiantao Lin**, Haodong Li, Xiaogang Xu, Ying-Cong Chen
 
 [**Code**](https://github.com/EnVision-Research/LucidDreamer)  
