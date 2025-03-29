@@ -23,8 +23,8 @@ baidu_site_verification  :
 author:
   name             : "Meixi Chen (陈美羲)"
   avatar           : "images/avatar.jpg"
-  bio              : ""
-  location         : "China, Guangzhou"
+  bio              : " "
+  location         : #"China, Guangzhou"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ggfkeMEAAAAJ"
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         :
   dblp             :
-  orcid            : "https://orcid.org/0000-0003-4687-8866"
+  orcid            : #"https://orcid.org/0000-0003-4687-8866"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/@Meixi_Chen"
+  youtube          : #"https://www.youtube.com/@Meixi_Chen"
   wikipedia        :
 
 
