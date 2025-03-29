@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Meixi Chen (陈美羲)"
+title                    : "Meixi Chen"
 description              :
 repository               : "MeixiChenTracy/MeixiChenTracy.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,9 +21,9 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Meixi Chen (陈美羲)"
+  name             : "Meixi Chen"
   avatar           : "images/avatar.jpg"
-  bio              : " "
+  bio              : "(陈美羲)"
   location         : #"China, Guangzhou"
   employer         :
   pubmed           : 
