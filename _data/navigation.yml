@@ -8,11 +8,11 @@ main:
   - title: "Publications"
     url: "/MeixiChenTracy.github.io/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/MeixiChenTracy.github.io/#-honors-and-awards"
+  # - title: "Honors and Awards"
+  #   url: "/MeixiChenTracy.github.io/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/MeixiChenTracy.github.io/#-educations"
+  # - title: "Educations"
+  #   url: "/MeixiChenTracy.github.io/#-educations"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
