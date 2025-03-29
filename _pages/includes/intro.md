@@ -1,5 +1,8 @@
-I am a **MPhil student at HKUST (Guangzhou)** <img src='./images/hkust_logo.png' style='width: 0.7em;'>, supervised by Prof. [Ying-Cong Chen](https://www.yingcong.me/). 
 
-I am currently conducting research in **3D vision, generative models, and neural rendering**. My recent work focuses on **3D/4D asset generation, photometric stereo, and multi-view generation**. If you are interested in **academic collaboration**, please feel free to contact me via email at [jlin695@connect.hkust-gz.edu.cn](mailto:jlin695@connect.hkust-gz.edu.cn). I am also open to research internship opportunities in related fields!
+I'm a Ph.D. student at the [**Hong Kong University of Science and Technology (Guangzhou)**](https://www.hkust-gz.edu.cn), supervised by [**Dr. Ying-Cong CHEN**](https://www.yingcong.me) and [**Dr. Hui XIONG**](https://www.hkust-gz.edu.cn/people/hui-xiong/). 
 
-I obtained my **bachelor's degree** from **Jinan University** (暨南大学), majoring in **Electronic Information Science & Technology**. During my undergraduate studies, I built a solid foundation in **computer vision, computer graphics, and AI-driven 3D modeling**.
+I obtained my M.Eng. and B.A. degrees in Engineering from the [**University of Cambridge**](https://mi.eng.cam.ac.uk), under the supervision of [**Dr. Samuel Albanie**](https://samuelalbanie.com). 
+
+Previously, I completed my A-Levels at [**Harrow International School Hong Kong**](https://www.harrowschool.hk).
+
+My current research interest lies in 3D generation models, and I am also concerned about copyright issues related to generative models.

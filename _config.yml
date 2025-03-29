@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiantao Lin(林坚涛)"
-description              : "MPhil student at HKUST (Guangzhou), supervised by Prof. Ying-Cong Chen"
-repository               : "LTT-O/JiantaoLin.github.io"
+title                    : "Meixi Chen (陈美羲)"
+description              :
+repository               : "MeixiChenTracy/MeixiChenTracy.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Jiantao Lin(林坚涛)"
-  avatar           : "images/jiantao.JPG"
+  name             : "Meixi Chen (陈美羲)"
+  avatar           : "images/avatar.jpg"
   bio              : ""
   location         : "China, Guangzhou"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.cz/citations?hl=zh-CN&user=ri-snP0AAAAJ"
-  email            : "ltt2019051173@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ggfkeMEAAAAJ"
+  email            : "mchen221@connect.hkust-gz.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,25 +37,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LTT-O"
+  github           : "MeixiChenTracy"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "林坚涛"
-  dblp             : "https://dblp.org/pid/334/6592.html"
-  orcid            : "https://orcid.org/0000-0001-5705-2299"
+  linkedin         :
+  dblp             :
+  orcid            : "https://orcid.org/0000-0003-4687-8866"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://x.com/MeixiChenTracy"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/@Meixi_Chen"
   wikipedia        :
 
 
