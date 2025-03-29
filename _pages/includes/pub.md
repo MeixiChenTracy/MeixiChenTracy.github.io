@@ -4,12 +4,10 @@
 <div class='paper-box-text' markdown="1">
 
 #### **Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation**  
-[**📄 Paper (arXiv)**](https://arxiv.org/pdf/2503.01370)   \\
+[**Paper (arXiv)**](https://arxiv.org/pdf/2503.01370) | [**Project Page**](https://ltt-o.github.io/Kiss3dgen.github.io) | [**Code**](https://github.com/EnVision-Research/Kiss3DGen) | [**Demo**](https://envision-research.hkust-gz.edu.cn/kiss3dgen/) \\
 Jiantao Lin\*, Xin Yang\*, **Meixi Chen\***, Yingjie Xu, Dongyu Yan, Leyi Wu, Xinli Xu, Lie Xu, Shunsi Zhang, Ying-Cong Chen
 
-[**Project Page**](https://ltt-o.github.io/Kiss3dgen.github.io) | [**Code**](https://github.com/EnVision-Research/Kiss3DGen) | [**Demo**](https://envision-research.hkust-gz.edu.cn/kiss3dgen/)
-  <!-- - This work explores utilizing 2D diffusion models for 3D asset generation.
-  - Improves quality and diversity in 3D shape synthesis. -->
+
 </div>
 </div>
 
@@ -18,7 +16,7 @@ Jiantao Lin\*, Xin Yang\*, **Meixi Chen\***, Yingjie Xu, Dongyu Yan, Leyi Wu, Xi
 <div class='paper-box-text' markdown="1">
 
 #### **Improving Few-Shot Performance of Language Models via Nearest Neighbor Calibration**  
-[**📄 Paper (arXiv)**](https://arxiv.org/pdf/2212.02216)   \\
+[**Paper (arXiv)**](https://arxiv.org/pdf/2212.02216)   \\
 Feng Nie, **Meixi Chen**, Zhirui Zhang, Xu Cheng
 
 </div>
